@@ -1,8 +1,8 @@
 import React from 'react'
-import EventDetails from './component/EventDetails'
-import Footer from './component/Footer'
 import Header from './component/header'
+import EventDetails from './component/EventDetails'
 import Schedule from './component/Schedule'
+import Footer from './component/Footer'
 
 function App() {
   return (
